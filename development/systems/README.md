@@ -38,10 +38,16 @@ Building Data Science / Machine Learning Products
 
 <br>
 
-**Deploy**
+**Operations**
 
-[Continuous integration vs. delivery vs. deployment ](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
-[Continuous Integration/Continuous Delivery](https://www.cisco.com/c/en/us/solutions/data-center/data-center-networking/what-is-ci-cd.html)
+* [Continuous Integration/Continuous Delivery](https://www.cisco.com/c/en/us/solutions/data-center/data-center-networking/what-is-ci-cd.html)
+* [Continuous Integration, Delivery, & Deployment](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
+* [DevOps](https://www.atlassian.com/devops/what-is-devops)
+* [What is DataOps — Ten Most Common Questions](https://medium.com/data-ops/what-is-dataops-ten-most-common-questions-ffc09c09c921)
+* [DataOps is NOT Just DevOps for Data](https://medium.com/data-ops/dataops-is-not-just-devops-for-data-6e03083157b7)
+* [GitHub Security Best Practices](https://snyk.io/blog/ten-git-hub-security-best-practices/)
+  * [Reference Sheet](https://res.cloudinary.com/snyk/image/upload/v1707167357/10_GitHub_Security_Best_Practices.pdf)
+
 
 <br>
 
