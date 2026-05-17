@@ -10,9 +10,21 @@
 ## Python & Docker
 
 Notes:
-* [Base Images](https://pythonspeed.com/articles/base-image-python-docker-images/)
+* [The best Docker base image for your Python application](https://pythonspeed.com/articles/base-image-python-docker-images/)
 * [Docker Official Images: Python](https://hub.docker.com/_/python/)
   * [A production set-up example](https://github.com/discourses/augmentation/blob/master/Dockerfile)
+* [Structuring](https://docs.python-guide.org/writing/structure/)
+* [ubuntu & pip](https://linuxize.com/post/how-to-install-pip-on-ubuntu-20.04/)
+  * [pip](https://pip.pypa.io/en/stable/)
+* [JupyterLab Container](https://docs.docker.com/guides/jupyter/#run-and-access-a-jupyterlab-container)
+* [JupyterLab & Remote Servers](https://medium.com/spencerweekly/remote-jupyter-lab-how-to-utilize-jupyter-lab-to-its-fullest-on-a-remote-server-2a359159d2f6)
+
+<br>
+
+## PyTorch
+
+* [Get Started](https://pytorch.org/get-started/locally/)
+
 
 <br>
 
@@ -102,7 +114,6 @@ Perhaps [TensorRT](https://www.tensorflow.org/install/pip#windows-wsl2:~:text=im
 ```shell
 pip install --upgrade tensorrt
 ```
-
 
 and [DASK](https://www.dask.org), [scikit-learn](https://scikit-learn.org/stable/), and code analysis packages; [pytest](https://docs.pytest.org/en/latest/), [coverage](https://coverage.readthedocs.io/en/7.3.3/), [pylint](https://pylint.readthedocs.io/en/latest/), [pytest-cov](https://pytest-cov.readthedocs.io/en/latest/), [flake8](https://flake8.pycqa.org/en/latest/).
 
