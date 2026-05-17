@@ -13,6 +13,8 @@ Notes
 * https://registry.opendata.aws
 * https://moody-challenge.physionet.org/2015/
 * https://www.challenge.gov/?challenge=doj-data-challenge-2024
+* https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00313
+* https://www.weather.gov/abrfc/map
 
 
 <br>
